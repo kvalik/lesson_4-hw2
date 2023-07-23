@@ -1,0 +1,22 @@
+
+p {
+    color: red;
+  }
+
+  #unique-element {
+    color: blue;
+  }
+
+  .class-name {
+    color: green;
+  }
+
+
+  .class1.class2 {
+    color: purple;
+  }
+
+
+  div p {
+    color: orange;
+  }
